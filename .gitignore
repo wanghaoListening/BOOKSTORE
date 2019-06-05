@@ -13,7 +13,10 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
+.settings
+*.classpath
+*.gitattributes
+.project
 # Windows shortcuts
 *.lnk
 
